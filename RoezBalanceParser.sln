@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32414.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoezBalanceParser", "RoezBalanceParser\RoezBalanceParser.csproj", "{BDC5D8D6-3A9C-42FA-AF98-CE1FC42EDE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC5D8D6-3A9C-42FA-AF98-CE1FC42EDE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC5D8D6-3A9C-42FA-AF98-CE1FC42EDE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC5D8D6-3A9C-42FA-AF98-CE1FC42EDE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC5D8D6-3A9C-42FA-AF98-CE1FC42EDE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E85225-FA18-4A46-B0D6-63C14F6DBCBE}
+	EndGlobalSection
+EndGlobal
